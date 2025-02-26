@@ -1,8 +1,9 @@
 # Minecraft-Tunnel
+![image](https://github.com/user-attachments/assets/23ff7e2c-91a8-43b4-8f12-b23a17e1cc6a)
 
 ```bash
 Server Address : action-adaptive.gl.joinmc.link
-Join 147.185.221.26:29353
+or, Join 147.185.221.26:29353
 ```
 
 ![image](https://github.com/user-attachments/assets/1be3a152-9477-415b-b6a4-72e7cbd8cbd0)
